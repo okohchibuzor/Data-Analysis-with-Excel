@@ -89,3 +89,13 @@ Slicers and Timeline were also added to the dashboard for easy navigation throug
 3. More of Arrowroot should be supplied to the East and Chocolate Chips to the West.
 
 
+
+
+
+### Connect with me
+----
+  [Linkedin](linkedin.com/in/chibuzor-data-analyst) 
+  
+[Twitter](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
+
+
