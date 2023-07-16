@@ -94,7 +94,7 @@ Slicers and Timeline were also added to the dashboard for easy navigation throug
 
 ### Connect with me
 ----
-  [Linkedin](linkedin.com/in/chibuzor-data-analyst) 
+  [Linkedin](https://linkedin.com/in/chibuzor-data-analyst) 
   
 [Twitter](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
 
