@@ -1,4 +1,4 @@
-# Excel-Analysis
+# Data-Analysis-with-Excel
 DATA VISUALIZATION AND ANALYSIS USING THE SALES DATA OF A SUPERMARKET.
 
 ![](head.webp)
